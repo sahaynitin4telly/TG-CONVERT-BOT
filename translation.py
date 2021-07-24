@@ -23,7 +23,7 @@ I can convert file to video or video to file with custom thumbnail support.
 
 4. Reply to file /c2v for converting into video.
 
-**SUPPORT GROUP:** [Bot Support Group](https://telegram.dog/tellybots)
+**SUPPORT GROUP:** [Bot Support Group](https://t.me/DK_BOTZ)
 """
 
 
@@ -34,13 +34,11 @@ I can convert file to video or video to file with custom thumbnail support.
 
 **🧰 Framework:** Pyrogram
 
-**👨‍💻 Developer:** [Tellyfun_4u](https://t.me/sahaynitin58)
+**👨‍💻 Developer:** [Anonymous](https://t.me/DKBOTZHELP)
 
-**📮 Channel:** [BOT UPDATES](https://t.me/tellybots)
+**📮 Channel:** [BOT UPDATES](https://t.me/DKBOTZ)
 
-**👥 Group:** [BOT SUPPORT](https://t.me/tellybots)
-
-**💻 Source Code:**[Press Me](https://github.com/sahaynitin4telly/TG-CONVERT-BOT)
+**👥 Group:** [BOT SUPPORT](https://t.me/DK_BOTZ)
 
 """
 
