@@ -19,9 +19,9 @@ I can convert file to video or video to file with custom thumbnail support.
 
 2. Send me the thumbnail(photo) optional.
 
-3. Reply to video /c2f for converting into file.
+3. Reply to video /converttofile for converting into file.
 
-4. Reply to file /c2v for converting into video.
+4. Reply to file /converttovideo for converting into video.
 
 **SUPPORT GROUP:** [Bot Support Group](https://t.me/DK_BOTZ)
 """
